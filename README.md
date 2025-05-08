@@ -2,7 +2,7 @@
 
 **Modern Frontends. Code the Future**
 
-RetroCraft is a nostalgic yet powerful CLI tool to scaffold clean, ready-to-code frontend projects using your favorite stacks — whether it's **React**, **Vue**, **Next.js**, **Nuxt.js**, **MERN**, or **MEVN** and bundled with **Tailwind CSS**. Inspired by retro aesthetics, built for modern productivity.
+RetroCraft is a nostalgic yet powerful CLI tool to scaffold clean, ready-to-code frontend projects using your favorite stacks — whether it's **React**, **Vue**, **Next.js**, **Nuxt.js** and bundled with **Tailwind CSS**. Inspired by retro aesthetics, built for modern productivity.
 
 ---
 
@@ -22,8 +22,6 @@ RetroCraft is a nostalgic yet powerful CLI tool to scaffold clean, ready-to-code
 * VueJS
 * NextJS
 * NuxtJS
-* MERN (MongoDB, Express, React, Node)
-* MEVN (MongoDB, Express, Vue, Node)
 
 ---
 
