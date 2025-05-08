@@ -70,7 +70,6 @@ const question = [
 ]
 
 console.log(chalk.blue(asciiArt))
-console.log(chalk.greenBright.bold(greet))
 
 // ✅ Bungkus prompt dan proses utama dalam try-catch
 const main = async () => {
