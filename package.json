@@ -1,0 +1,45 @@
+{
+  "name": "retrocraft",
+  "version": "1.0.0",
+  "type": "module",
+  "author": "Rauliqbal",
+  "license": "MIT",
+  "description": "RetroCraft is a fun and nostalgic CLI tool to generate clean and structured front-end project setups using modern frameworks like React, Vue, Next.js, and Nuxt.js.",
+  "bin": {
+    "retrocraft": "./index.js"
+  },
+  "scripts": {
+    "format": "prettier --write .",
+    "format:check": "prettier --check ."
+  },
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+    }
+  },
+  "keywords": [
+    "retrocraft",
+    "express-js",
+    "react-js",
+    "front-end",
+    "back-end",
+    "full-stack",
+    "framework",
+    "cli",
+    "generator",
+    "command-line"
+  ],
+  "devDependencies": {
+    "@commitlint/cli": "^19.6.1",
+    "@commitlint/config-conventional": "^19.6.0",
+    "chalk": "^5.4.1",
+    "commitizen": "^4.3.1",
+    "cz-conventional-changelog": "^3.3.0",
+    "prettier": "^3.4.2"
+  },
+  "dependencies": {
+    "giget": "^1.2.3",
+    "inquirer": "^12.3.0",
+    "ora": "^8.1.1"
+  }
+}
