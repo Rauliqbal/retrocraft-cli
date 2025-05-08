@@ -59,7 +59,7 @@ const question = [
     type: 'list',
     name: 'project-template',
     message: 'Pick your frontend stack of choice:',
-    choices: ['NextJS', 'NuxtJS', 'ReactJS', 'VueJS', 'MERN', 'MEVN'],
+    choices: ['NextJS', 'NuxtJS', 'ReactJS', 'VueJS'],
   },
   {
     type: 'list',
