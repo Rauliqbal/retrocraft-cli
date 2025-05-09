@@ -125,6 +125,7 @@ const main = async () => {
     console.log(chalk.greenBright('\n✅ Your project is ready to rock!'))
     console.log(chalk.gray('\nGet started with:'))
     console.log(chalk.cyan(`  cd ${projectName}`))
+    console.log(chalk.cyan(`  git init `))
     console.log(chalk.cyan(`  ${projectPackageManager} run prepare\n`))
     console.log(chalk.cyan(`  ${projectPackageManager} run dev\n`))
     console.log(chalk.magentaBright('✨ Happy hacking! ✨'))
